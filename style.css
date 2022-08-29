@@ -3,3 +3,16 @@
 body {
     background-color: aqua;
 }
+
+main {
+    background-image: url("https://images.unsplash.com/photo-1600998837340-4887228e311f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+.image_container {
+    border-radius: 10px;
+    border: 10px solid magenta;
+}
